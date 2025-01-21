@@ -4,9 +4,9 @@ Key Highlights:
 
 🌟 Industry Impact:
 
-➤ Led 3+ AI teams, launched 3+ full-scale products and 5+ Minimum Viable Products (MVPs) while maintaining high-quality standards (90%+ accuracy) and reducing process costs (15%-80% cost reduction).
-➤ Developed/Revamped 10+ solutions in Computer Vision, and Natural Language Processing including Smart Shelf Auditor, Virtual Try-on, Sports Analytics, Prospect Client Analysis, Document Sender Identifier, and Bank Statements Analytics.
-➤ Led the initiatives on new code and recruitment standards at Quantrium.
+- Led 3+ AI teams, launched 3+ full-scale products and 5+ Minimum Viable Products (MVPs) while maintaining high-quality standards (90%+ accuracy) and reducing process costs (15%-80% cost reduction).
+- Developed/Revamped 10+ solutions in Computer Vision, and Natural Language Processing including Smart Shelf Auditor, Virtual Try-on, Sports Analytics, Prospect Client Analysis, Document Sender Identifier, and Bank Statements Analytics.
+- Led the initiatives on new code and recruitment standards at Quantrium.
 
 🔬 Research Endeavours:
 
